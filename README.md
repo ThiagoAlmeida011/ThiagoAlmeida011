@@ -9,7 +9,6 @@
 </a>
 </p>
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXRkaHUyYXdjOHpsaGxsZ2E2ODR2ZHdmMWo4ZnNmZDhneGl4OW12bCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Avrht57tUpKFfcUCny/giphy.gif">
 <h3> Sobre mim</h3>
 
 - 🏬 &nbsp;Desenvolvedor Frontend.
@@ -46,3 +45,6 @@
 </td>
 </tr>
 </table>
+<p align="center">
+<img width="265" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWNmaTA4Z2hpY205MGRyMzdvOW0zZzk1YmpjbGN5emQyNWR5dDA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt3ojRbsLGwQhbO/giphy.gif">
+</p>
