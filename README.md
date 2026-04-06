@@ -25,7 +25,8 @@
 
 **Back-End**
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,mongodb, )](https://skillicons.dev)
+
 
 **Ferramentas de Desenvolvimento**
 
