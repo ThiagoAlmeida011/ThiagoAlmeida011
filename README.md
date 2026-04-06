@@ -3,6 +3,7 @@
 </h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/thiago-almeida-148462230/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://github.com/ThiagoAlmeida011">
 <img height="40" src="https://skillicons.dev/icons?i=github">
 </a>
