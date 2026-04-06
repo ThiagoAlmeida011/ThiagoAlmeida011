@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ThiagoAlmeida011&color=006bed)
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,25:5f00ff,50:a100ff,75:5f00ff,100:00f5ff&height=200&section=header&text=Thiago&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </h1>
