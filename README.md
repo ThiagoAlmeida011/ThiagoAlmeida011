@@ -1,16 +1,53 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=ThiagoAlmeida011&color=006bed)
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Thiago&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</h1>
+<h3 align="center">Front-End Developer</h3>
+<p align="center">
+<a href="https://github.com/ThiagoAlmeida011">
+<img height="40" src="https://skillicons.dev/icons?i=github">
+</a>
+</p>
 
-<!--
-**ThiagoAlmeida011/ThiagoAlmeida011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXRkaHUyYXdjOHpsaGxsZ2E2ODR2ZHdmMWo4ZnNmZDhneGl4OW12bCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Avrht57tUpKFfcUCny/giphy.gif">
+<h3> Sobre mim</h3>
 
-Here are some ideas to get you started:
+- 🏬 &nbsp;Desenvolvedor Frontend.
+- 🎓 &nbsp;Cursando Análises e Desenvolvimeto de Sistemas na FAM.
+- 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 &nbsp;Aprendendo mais sobre JavaScript, HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> :rocket: &nbsp; Minhas Skills </h3>
+
+**Front-End**
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+
+**Back-End**
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+**Ferramentas de Desenvolvimento**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+  <br/>
+<br/>
+
+<h2>📊 Estatísticas</h2>
+
+<table align="center">
+<tr>
+<td> 
+<img height="170em" src="https://streak-stats.demolab.com?user=ThiagoAlmeida011&theme=radical&hide_border=true"/>
+</td>
+<td>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoAlmeida011&theme=radical"/>
+</td>
+</tr>
+</table>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoAlmeida011/ThiagoAlmeida011/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoAlmeida011/ThiagoAlmeida011/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoAlmeida011/ThiagoAlmeida011/output/github-contribution-grid-snake.svg">
+</picture>
+<p align="center">Always learning, always building.</p>
