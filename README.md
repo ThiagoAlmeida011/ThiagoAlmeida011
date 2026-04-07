@@ -9,6 +9,9 @@
 </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=5)
+
 <h3> Sobre mim</h3>
 
 - 🏬 &nbsp;Desenvolvedor Frontend.
