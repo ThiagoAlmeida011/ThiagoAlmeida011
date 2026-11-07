@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o SEU NOME 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desenvolvedor+SUA+AREA;Apaixonado+por+código;Sempre+aprendendo" alt="Typing SVG" />
