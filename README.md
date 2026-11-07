@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Lendo;Estudando;Aprendendo" alt="Typing SVG" />
+</p>
+
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/thiago-de-almeida-148462230) | thiagoalmeida0250@gmail.com
 
