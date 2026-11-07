@@ -1,15 +1,16 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desenvolvedor+Java+%26+Python;Apaixonado+por+c%C3%B3digo;Sempre+aprendendo" alt="Typing SVG" />
-</p>
-
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/thiago-de-almeida-148462230) | seu@email.com
+[LinkedIn](https://www.linkedin.com/in/thiago-de-almeida-148462230) | thiagoalmeida0250@gmail.com
 
 ## Tecnologias
 
 **Linguagens**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css" />
+</p>
+
+**Back-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 **Bancos de dados**
